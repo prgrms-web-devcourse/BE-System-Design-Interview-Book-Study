@@ -126,3 +126,7 @@ after)
 
 - https://velog.io/@strawberry/Database-sharding
 - https://blog.discord.com/scaling-elixir-f9b8e1e7c29b
+
+## 질문 사항
+
+- 가상 노드는 키 마다 빽빽하게 놔둬서 핫 스팟 문제가 안나도록 방지 하는 것. (대신 tradeoff가 발생하겠쥬?)
